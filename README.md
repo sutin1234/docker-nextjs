@@ -9,3 +9,6 @@ cd project-name && (npm install or yarn install)
 
 ## use build & run Next.js with docker
 docker-compose up --build
+
+## start Next.js
+http://localhost:3000
